@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xlkshorturl", "xlkshorturl\xlkshorturl.csproj", "{99ECEF27-D339-4EDC-862F-C885A6535F9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shorten", "D:\inetpub\webroot\shorten\shorten.csproj", "{7014CF7F-87B6-446B-8EEA-2518DD0517CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99ECEF27-D339-4EDC-862F-C885A6535F9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99ECEF27-D339-4EDC-862F-C885A6535F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99ECEF27-D339-4EDC-862F-C885A6535F9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99ECEF27-D339-4EDC-862F-C885A6535F9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7014CF7F-87B6-446B-8EEA-2518DD0517CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7014CF7F-87B6-446B-8EEA-2518DD0517CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7014CF7F-87B6-446B-8EEA-2518DD0517CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7014CF7F-87B6-446B-8EEA-2518DD0517CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
