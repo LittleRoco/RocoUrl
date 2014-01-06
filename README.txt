@@ -13,6 +13,8 @@ tar: Source Code
 2. Everyone can copy,rebuild,redistribute,repackage,modify the code to 
    make your own URL Shorten Service
 3. This License is not compactible with LGPL,GPL,Apache Licenses.
+4. If you modify the license, you must base on this lincense and DO NOT 
+   add any of LGPL,GPL,Apache Licenses.
 ----------------------------------------------------------------------------
 
 ============================================================================
