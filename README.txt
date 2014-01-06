@@ -29,5 +29,7 @@ Linux Version:
 Copy Source Code into /var/www or your Apache Web Root directory.
 Install Mono via your linux package manager,and set it into 4.0 mode.
 IMPORTANT: You must add your SQL SERVER connection into Resource.resx and 
-           Build once before you install the source
+           Build once before you install the source.
+           After install the source,you must add Web.Config and Set * to 
+           ShortUrlHandlerFactory without file detection
 ----------------------------------------------------------------------------
